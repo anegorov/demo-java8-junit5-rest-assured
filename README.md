@@ -15,3 +15,6 @@
 
 #### To run tests from GitHub Actions
 push to main branch
+
+#### To get Allure report
+`allure serve --report-dir allure-results`
