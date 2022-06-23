@@ -10,5 +10,8 @@
 * TypeSafe
 * Lombok
 
-#### To run tests
+#### To run tests locally
 `mvn clear test`
+
+#### To run tests from GitHub Actions
+push to main branch
